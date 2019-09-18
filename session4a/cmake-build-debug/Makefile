@@ -110,84 +110,44 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named session4a1
+# Target rules for targets named session4a
 
 # Build rule for target.
-session4a1: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 session4a1
-.PHONY : session4a1
+session4a: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 session4a
+.PHONY : session4a
 
 # fast build rule for target.
-session4a1/fast:
-	$(MAKE) -f CMakeFiles\session4a1.dir\build.make CMakeFiles/session4a1.dir/build
-.PHONY : session4a1/fast
+session4a/fast:
+	$(MAKE) -f CMakeFiles\session4a.dir\build.make CMakeFiles/session4a.dir/build
+.PHONY : session4a/fast
 
-#=============================================================================
-# Target rules for targets named session4a2
+piramide.obj: piramide.cpp.obj
 
-# Build rule for target.
-session4a2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 session4a2
-.PHONY : session4a2
-
-# fast build rule for target.
-session4a2/fast:
-	$(MAKE) -f CMakeFiles\session4a2.dir\build.make CMakeFiles/session4a2.dir/build
-.PHONY : session4a2/fast
-
-ejercicio3.obj: ejercicio3.cpp.obj
-
-.PHONY : ejercicio3.obj
+.PHONY : piramide.obj
 
 # target to build an object file
-ejercicio3.cpp.obj:
-	$(MAKE) -f CMakeFiles\session4a1.dir\build.make CMakeFiles/session4a1.dir/ejercicio3.cpp.obj
-.PHONY : ejercicio3.cpp.obj
+piramide.cpp.obj:
+	$(MAKE) -f CMakeFiles\session4a.dir\build.make CMakeFiles/session4a.dir/piramide.cpp.obj
+.PHONY : piramide.cpp.obj
 
-ejercicio3.i: ejercicio3.cpp.i
+piramide.i: piramide.cpp.i
 
-.PHONY : ejercicio3.i
-
-# target to preprocess a source file
-ejercicio3.cpp.i:
-	$(MAKE) -f CMakeFiles\session4a1.dir\build.make CMakeFiles/session4a1.dir/ejercicio3.cpp.i
-.PHONY : ejercicio3.cpp.i
-
-ejercicio3.s: ejercicio3.cpp.s
-
-.PHONY : ejercicio3.s
-
-# target to generate assembly for a file
-ejercicio3.cpp.s:
-	$(MAKE) -f CMakeFiles\session4a1.dir\build.make CMakeFiles/session4a1.dir/ejercicio3.cpp.s
-.PHONY : ejercicio3.cpp.s
-
-ejercicio4.obj: ejercicio4.cpp.obj
-
-.PHONY : ejercicio4.obj
-
-# target to build an object file
-ejercicio4.cpp.obj:
-	$(MAKE) -f CMakeFiles\session4a2.dir\build.make CMakeFiles/session4a2.dir/ejercicio4.cpp.obj
-.PHONY : ejercicio4.cpp.obj
-
-ejercicio4.i: ejercicio4.cpp.i
-
-.PHONY : ejercicio4.i
+.PHONY : piramide.i
 
 # target to preprocess a source file
-ejercicio4.cpp.i:
-	$(MAKE) -f CMakeFiles\session4a2.dir\build.make CMakeFiles/session4a2.dir/ejercicio4.cpp.i
-.PHONY : ejercicio4.cpp.i
+piramide.cpp.i:
+	$(MAKE) -f CMakeFiles\session4a.dir\build.make CMakeFiles/session4a.dir/piramide.cpp.i
+.PHONY : piramide.cpp.i
 
-ejercicio4.s: ejercicio4.cpp.s
+piramide.s: piramide.cpp.s
 
-.PHONY : ejercicio4.s
+.PHONY : piramide.s
 
 # target to generate assembly for a file
-ejercicio4.cpp.s:
-	$(MAKE) -f CMakeFiles\session4a2.dir\build.make CMakeFiles/session4a2.dir/ejercicio4.cpp.s
-.PHONY : ejercicio4.cpp.s
+piramide.cpp.s:
+	$(MAKE) -f CMakeFiles\session4a.dir\build.make CMakeFiles/session4a.dir/piramide.cpp.s
+.PHONY : piramide.cpp.s
 
 # Help Target
 help:
@@ -195,16 +155,12 @@ help:
 	@echo ... all (the default if no target is provided)
 	@echo ... clean
 	@echo ... depend
-	@echo ... session4a1
-	@echo ... session4a2
 	@echo ... edit_cache
+	@echo ... session4a
 	@echo ... rebuild_cache
-	@echo ... ejercicio3.obj
-	@echo ... ejercicio3.i
-	@echo ... ejercicio3.s
-	@echo ... ejercicio4.obj
-	@echo ... ejercicio4.i
-	@echo ... ejercicio4.s
+	@echo ... piramide.obj
+	@echo ... piramide.i
+	@echo ... piramide.s
 .PHONY : help
 
 

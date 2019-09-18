@@ -64,76 +64,39 @@ CMAKE_SOURCE_DIR = C:\Users\arior\clase1\ec1-Lion2407\session4a
 CMAKE_BINARY_DIR = C:\Users\arior\clase1\ec1-Lion2407\session4a\cmake-build-debug
 
 #=============================================================================
-# Target rules for target CMakeFiles/session4a1.dir
+# Target rules for target CMakeFiles/session4a.dir
 
 # All Build rule for target.
-CMakeFiles/session4a1.dir/all:
-	$(MAKE) -f CMakeFiles\session4a1.dir\build.make CMakeFiles/session4a1.dir/depend
-	$(MAKE) -f CMakeFiles\session4a1.dir\build.make CMakeFiles/session4a1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\arior\clase1\ec1-Lion2407\session4a\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target session4a1"
-.PHONY : CMakeFiles/session4a1.dir/all
+CMakeFiles/session4a.dir/all:
+	$(MAKE) -f CMakeFiles\session4a.dir\build.make CMakeFiles/session4a.dir/depend
+	$(MAKE) -f CMakeFiles\session4a.dir\build.make CMakeFiles/session4a.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\arior\clase1\ec1-Lion2407\session4a\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target session4a"
+.PHONY : CMakeFiles/session4a.dir/all
 
 # Include target in all.
-all: CMakeFiles/session4a1.dir/all
+all: CMakeFiles/session4a.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/session4a1.dir/rule: cmake_check_build_system
+CMakeFiles/session4a.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\arior\clase1\ec1-Lion2407\session4a\cmake-build-debug\CMakeFiles 2
-	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/session4a1.dir/all
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/session4a.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\arior\clase1\ec1-Lion2407\session4a\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/session4a1.dir/rule
+.PHONY : CMakeFiles/session4a.dir/rule
 
 # Convenience name for target.
-session4a1: CMakeFiles/session4a1.dir/rule
+session4a: CMakeFiles/session4a.dir/rule
 
-.PHONY : session4a1
-
-# clean rule for target.
-CMakeFiles/session4a1.dir/clean:
-	$(MAKE) -f CMakeFiles\session4a1.dir\build.make CMakeFiles/session4a1.dir/clean
-.PHONY : CMakeFiles/session4a1.dir/clean
+.PHONY : session4a
 
 # clean rule for target.
-clean: CMakeFiles/session4a1.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/session4a2.dir
-
-# All Build rule for target.
-CMakeFiles/session4a2.dir/all:
-	$(MAKE) -f CMakeFiles\session4a2.dir\build.make CMakeFiles/session4a2.dir/depend
-	$(MAKE) -f CMakeFiles\session4a2.dir\build.make CMakeFiles/session4a2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\arior\clase1\ec1-Lion2407\session4a\cmake-build-debug\CMakeFiles --progress-num=3,4 "Built target session4a2"
-.PHONY : CMakeFiles/session4a2.dir/all
-
-# Include target in all.
-all: CMakeFiles/session4a2.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/session4a2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\arior\clase1\ec1-Lion2407\session4a\cmake-build-debug\CMakeFiles 2
-	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/session4a2.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\arior\clase1\ec1-Lion2407\session4a\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/session4a2.dir/rule
-
-# Convenience name for target.
-session4a2: CMakeFiles/session4a2.dir/rule
-
-.PHONY : session4a2
+CMakeFiles/session4a.dir/clean:
+	$(MAKE) -f CMakeFiles\session4a.dir\build.make CMakeFiles/session4a.dir/clean
+.PHONY : CMakeFiles/session4a.dir/clean
 
 # clean rule for target.
-CMakeFiles/session4a2.dir/clean:
-	$(MAKE) -f CMakeFiles\session4a2.dir\build.make CMakeFiles/session4a2.dir/clean
-.PHONY : CMakeFiles/session4a2.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/session4a2.dir/clean
+clean: CMakeFiles/session4a.dir/clean
 
 .PHONY : clean
 

@@ -20,7 +20,4 @@ void pedir_notas (float &a,float &b){
     cin>>a;
     cin>>b;
     return;
-}//
-// Created by arior on 12/09/2019.
-//
-
+}

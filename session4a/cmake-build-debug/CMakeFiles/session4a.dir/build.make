@@ -56,62 +56,32 @@ include CMakeFiles/session4a.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/session4a.dir/flags.make
 
-CMakeFiles/session4a.dir/main.cpp.obj: CMakeFiles/session4a.dir/flags.make
-CMakeFiles/session4a.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\arior\clase1\ec1-Lion2407\session4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/session4a.dir/main.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\session4a.dir\main.cpp.obj -c C:\Users\arior\clase1\ec1-Lion2407\session4a\main.cpp
+CMakeFiles/session4a.dir/piramide.cpp.obj: CMakeFiles/session4a.dir/flags.make
+CMakeFiles/session4a.dir/piramide.cpp.obj: ../piramide.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\arior\clase1\ec1-Lion2407\session4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/session4a.dir/piramide.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\session4a.dir\piramide.cpp.obj -c C:\Users\arior\clase1\ec1-Lion2407\session4a\piramide.cpp
 
-CMakeFiles/session4a.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/session4a.dir/main.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\arior\clase1\ec1-Lion2407\session4a\main.cpp > CMakeFiles\session4a.dir\main.cpp.i
+CMakeFiles/session4a.dir/piramide.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/session4a.dir/piramide.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\arior\clase1\ec1-Lion2407\session4a\piramide.cpp > CMakeFiles\session4a.dir\piramide.cpp.i
 
-CMakeFiles/session4a.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/session4a.dir/main.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\arior\clase1\ec1-Lion2407\session4a\main.cpp -o CMakeFiles\session4a.dir\main.cpp.s
-
-CMakeFiles/session4a.dir/ejercicio_3.cpp.obj: CMakeFiles/session4a.dir/flags.make
-CMakeFiles/session4a.dir/ejercicio_3.cpp.obj: ../ejercicio\ 3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\arior\clase1\ec1-Lion2407\session4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/session4a.dir/ejercicio_3.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\session4a.dir\ejercicio_3.cpp.obj -c "C:\Users\arior\clase1\ec1-Lion2407\session4a\ejercicio 3.cpp"
-
-CMakeFiles/session4a.dir/ejercicio_3.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/session4a.dir/ejercicio_3.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\arior\clase1\ec1-Lion2407\session4a\ejercicio 3.cpp" > CMakeFiles\session4a.dir\ejercicio_3.cpp.i
-
-CMakeFiles/session4a.dir/ejercicio_3.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/session4a.dir/ejercicio_3.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\arior\clase1\ec1-Lion2407\session4a\ejercicio 3.cpp" -o CMakeFiles\session4a.dir\ejercicio_3.cpp.s
-
-CMakeFiles/session4a.dir/ejercicio4.cpp.obj: CMakeFiles/session4a.dir/flags.make
-CMakeFiles/session4a.dir/ejercicio4.cpp.obj: ../ejercicio4.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\arior\clase1\ec1-Lion2407\session4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/session4a.dir/ejercicio4.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\session4a.dir\ejercicio4.cpp.obj -c C:\Users\arior\clase1\ec1-Lion2407\session4a\ejercicio4.cpp
-
-CMakeFiles/session4a.dir/ejercicio4.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/session4a.dir/ejercicio4.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\arior\clase1\ec1-Lion2407\session4a\ejercicio4.cpp > CMakeFiles\session4a.dir\ejercicio4.cpp.i
-
-CMakeFiles/session4a.dir/ejercicio4.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/session4a.dir/ejercicio4.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\arior\clase1\ec1-Lion2407\session4a\ejercicio4.cpp -o CMakeFiles\session4a.dir\ejercicio4.cpp.s
+CMakeFiles/session4a.dir/piramide.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/session4a.dir/piramide.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\arior\clase1\ec1-Lion2407\session4a\piramide.cpp -o CMakeFiles\session4a.dir\piramide.cpp.s
 
 # Object files for target session4a
 session4a_OBJECTS = \
-"CMakeFiles/session4a.dir/main.cpp.obj" \
-"CMakeFiles/session4a.dir/ejercicio_3.cpp.obj" \
-"CMakeFiles/session4a.dir/ejercicio4.cpp.obj"
+"CMakeFiles/session4a.dir/piramide.cpp.obj"
 
 # External object files for target session4a
 session4a_EXTERNAL_OBJECTS =
 
-session4a.exe: CMakeFiles/session4a.dir/main.cpp.obj
-session4a.exe: CMakeFiles/session4a.dir/ejercicio_3.cpp.obj
-session4a.exe: CMakeFiles/session4a.dir/ejercicio4.cpp.obj
+session4a.exe: CMakeFiles/session4a.dir/piramide.cpp.obj
 session4a.exe: CMakeFiles/session4a.dir/build.make
 session4a.exe: CMakeFiles/session4a.dir/linklibs.rsp
 session4a.exe: CMakeFiles/session4a.dir/objects1.rsp
 session4a.exe: CMakeFiles/session4a.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\arior\clase1\ec1-Lion2407\session4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable session4a.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\arior\clase1\ec1-Lion2407\session4a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable session4a.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\session4a.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
