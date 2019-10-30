@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/arior/clase1/ec1-Lion2407/session9b/CAlumno.h
+string
+-
+
+C:/Users/arior/clase1/ec1-Lion2407/session9b/ejercicio1.cpp
+iostream
+-
+CAlumno.h
+C:/Users/arior/clase1/ec1-Lion2407/session9b/CAlumno.h
+
