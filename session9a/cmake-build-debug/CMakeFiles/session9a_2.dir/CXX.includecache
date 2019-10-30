@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/arior/clase1/ec1-Lion2407/session9a/Ccilindro.cpp
+cmath
+-
+Ccilindro.h
+C:/Users/arior/clase1/ec1-Lion2407/session9a/Ccilindro.h
+
+C:/Users/arior/clase1/ec1-Lion2407/session9a/Ccilindro.h
+
+C:/Users/arior/clase1/ec1-Lion2407/session9a/Cilindro.cpp
+iostream
+-
+Ccilindro.h
+C:/Users/arior/clase1/ec1-Lion2407/session9a/Ccilindro.h
+ctime
+-
+
