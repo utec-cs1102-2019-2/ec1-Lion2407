@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/arior/clase1/ec1-Lion2407/Ejercicios/contar_vocales.cpp">
+		<Unit filename="C:/Users/arior/clase1/ec1-Lion2407/Ejercicios/tarea2.cpp">
 			<Option target="Ejercicios"/>
 		</Unit>
 		<Unit filename="C:/Users/arior/clase1/ec1-Lion2407/Ejercicios/CMakeLists.txt">

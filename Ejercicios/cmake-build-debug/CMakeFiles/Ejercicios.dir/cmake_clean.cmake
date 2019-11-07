@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Ejercicios.dir/contar_vocales.cpp.obj"
+  "CMakeFiles/Ejercicios.dir/tarea2.cpp.obj"
   "Ejercicios.pdb"
   "Ejercicios.exe"
   "Ejercicios.exe.manifest"

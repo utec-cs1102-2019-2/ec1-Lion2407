@@ -3,4 +3,4 @@ project(Ejercicios)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Ejercicios contar_vocales.cpp)
+add_executable(Ejercicios tarea2.cpp)

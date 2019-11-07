@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/arior/clase1/ec1-Lion2407/Tarea_Gandalf/CGandalf.h
+Tipos2.h
+C:/Users/arior/clase1/ec1-Lion2407/Tarea_Gandalf/Tipos2.h
+CMago.h
+C:/Users/arior/clase1/ec1-Lion2407/Tarea_Gandalf/CMago.h
+
+C:/Users/arior/clase1/ec1-Lion2407/Tarea_Gandalf/CMago.cpp
+CMago.h
+C:/Users/arior/clase1/ec1-Lion2407/Tarea_Gandalf/CMago.h
+UFunciones2.h
+C:/Users/arior/clase1/ec1-Lion2407/Tarea_Gandalf/UFunciones2.h
+
+C:/Users/arior/clase1/ec1-Lion2407/Tarea_Gandalf/CMago.h
+Tipos2.h
+C:/Users/arior/clase1/ec1-Lion2407/Tarea_Gandalf/Tipos2.h
+Ccomida.h
+C:/Users/arior/clase1/ec1-Lion2407/Tarea_Gandalf/Ccomida.h
+
+C:/Users/arior/clase1/ec1-Lion2407/Tarea_Gandalf/Ccomida.h
+Tipos2.h
+C:/Users/arior/clase1/ec1-Lion2407/Tarea_Gandalf/Tipos2.h
+
+C:/Users/arior/clase1/ec1-Lion2407/Tarea_Gandalf/Tipos2.h
+iostream
+-
+string
+-
+iomanip
+-
+
+C:/Users/arior/clase1/ec1-Lion2407/Tarea_Gandalf/UFunciones2.h
+CGandalf.h
+C:/Users/arior/clase1/ec1-Lion2407/Tarea_Gandalf/CGandalf.h
+
+C:/Users/arior/clase1/ec1-Lion2407/Tarea_Gandalf/main2.cpp
+UFunciones2.h
+C:/Users/arior/clase1/ec1-Lion2407/Tarea_Gandalf/UFunciones2.h
+

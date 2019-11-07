@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/arior/clase1/ec1-Lion2407/Ejercicios_para_practicar/pregunta7.cpp
+iostream
+-
+conio.h
+-
+

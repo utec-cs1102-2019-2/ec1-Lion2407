@@ -122,32 +122,32 @@ Ejercicios/fast:
 	$(MAKE) -f CMakeFiles\Ejercicios.dir\build.make CMakeFiles/Ejercicios.dir/build
 .PHONY : Ejercicios/fast
 
-contar_vocales.obj: contar_vocales.cpp.obj
+tarea2.obj: tarea2.cpp.obj
 
-.PHONY : contar_vocales.obj
+.PHONY : tarea2.obj
 
 # target to build an object file
-contar_vocales.cpp.obj:
-	$(MAKE) -f CMakeFiles\Ejercicios.dir\build.make CMakeFiles/Ejercicios.dir/contar_vocales.cpp.obj
-.PHONY : contar_vocales.cpp.obj
+tarea2.cpp.obj:
+	$(MAKE) -f CMakeFiles\Ejercicios.dir\build.make CMakeFiles/Ejercicios.dir/tarea2.cpp.obj
+.PHONY : tarea2.cpp.obj
 
-contar_vocales.i: contar_vocales.cpp.i
+tarea2.i: tarea2.cpp.i
 
-.PHONY : contar_vocales.i
+.PHONY : tarea2.i
 
 # target to preprocess a source file
-contar_vocales.cpp.i:
-	$(MAKE) -f CMakeFiles\Ejercicios.dir\build.make CMakeFiles/Ejercicios.dir/contar_vocales.cpp.i
-.PHONY : contar_vocales.cpp.i
+tarea2.cpp.i:
+	$(MAKE) -f CMakeFiles\Ejercicios.dir\build.make CMakeFiles/Ejercicios.dir/tarea2.cpp.i
+.PHONY : tarea2.cpp.i
 
-contar_vocales.s: contar_vocales.cpp.s
+tarea2.s: tarea2.cpp.s
 
-.PHONY : contar_vocales.s
+.PHONY : tarea2.s
 
 # target to generate assembly for a file
-contar_vocales.cpp.s:
-	$(MAKE) -f CMakeFiles\Ejercicios.dir\build.make CMakeFiles/Ejercicios.dir/contar_vocales.cpp.s
-.PHONY : contar_vocales.cpp.s
+tarea2.cpp.s:
+	$(MAKE) -f CMakeFiles\Ejercicios.dir\build.make CMakeFiles/Ejercicios.dir/tarea2.cpp.s
+.PHONY : tarea2.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... Ejercicios
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... contar_vocales.obj
-	@echo ... contar_vocales.i
-	@echo ... contar_vocales.s
+	@echo ... tarea2.obj
+	@echo ... tarea2.i
+	@echo ... tarea2.s
 .PHONY : help
 
 

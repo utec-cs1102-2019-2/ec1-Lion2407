@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/arior/clase1/ec1-Lion2407/Ejercicios/contar_vocales.cpp
+C:/Users/arior/clase1/ec1-Lion2407/Ejercicios/tarea2.cpp
 iostream
 -
-string.h
+conio.h
+-
+cstdlib
 -
 

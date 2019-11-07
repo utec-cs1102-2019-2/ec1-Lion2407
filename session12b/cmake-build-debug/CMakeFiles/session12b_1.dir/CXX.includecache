@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/arior/clase1/ec1-Lion2407/session12b/Gato.cpp
+Gato.h
+C:/Users/arior/clase1/ec1-Lion2407/session12b/Gato.h
+
+C:/Users/arior/clase1/ec1-Lion2407/session12b/Gato.h
+Mascota.h
+C:/Users/arior/clase1/ec1-Lion2407/session12b/Mascota.h
+
+C:/Users/arior/clase1/ec1-Lion2407/session12b/Mascota.h
+iostream
+-
+
+C:/Users/arior/clase1/ec1-Lion2407/session12b/Perro.cpp
+Perro.h
+C:/Users/arior/clase1/ec1-Lion2407/session12b/Perro.h
+
+C:/Users/arior/clase1/ec1-Lion2407/session12b/Perro.h
+Mascota.h
+C:/Users/arior/clase1/ec1-Lion2407/session12b/Mascota.h
+iostream
+-
+
+C:/Users/arior/clase1/ec1-Lion2407/session12b/main.cpp
+iostream
+-
+Mascota.h
+C:/Users/arior/clase1/ec1-Lion2407/session12b/Mascota.h
+Gato.h
+C:/Users/arior/clase1/ec1-Lion2407/session12b/Gato.h
+Perro.h
+C:/Users/arior/clase1/ec1-Lion2407/session12b/Perro.h
+vector
+-
+
