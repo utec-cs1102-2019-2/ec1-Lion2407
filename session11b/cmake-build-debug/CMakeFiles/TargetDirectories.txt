@@ -1,0 +1,3 @@
+C:/Users/arior/clase1/ec1-Lion2407/session11b/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arior/clase1/ec1-Lion2407/session11b/cmake-build-debug/CMakeFiles/session11b_2.dir
+C:/Users/arior/clase1/ec1-Lion2407/session11b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
