@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/arior/clase1/ec1-Lion2407/session12a/CBote.cpp
+CBote.h
+C:/Users/arior/clase1/ec1-Lion2407/session12a/CBote.h
+ctime
+-
+cstdlib
+-
+iostream
+-
+
+C:/Users/arior/clase1/ec1-Lion2407/session12a/CBote.h
+CVehiculo.h
+C:/Users/arior/clase1/ec1-Lion2407/session12a/CVehiculo.h
+
+C:/Users/arior/clase1/ec1-Lion2407/session12a/CVehiculo.h
+
