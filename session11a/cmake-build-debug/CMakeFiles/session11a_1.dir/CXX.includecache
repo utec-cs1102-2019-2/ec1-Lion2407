@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/arior/clase1/ec1-Lion2407/session11a/Bloque.cpp
+Bloque.h
+C:/Users/arior/clase1/ec1-Lion2407/session11a/Bloque.h
+
+C:/Users/arior/clase1/ec1-Lion2407/session11a/Bloque.h
+
+C:/Users/arior/clase1/ec1-Lion2407/session11a/Tablero.h
+iostream
+-
+vector
+-
+Bloque.h
+C:/Users/arior/clase1/ec1-Lion2407/session11a/Bloque.h
+
+C:/Users/arior/clase1/ec1-Lion2407/session11a/main.cpp
+iostream
+-
+Tablero.h
+C:/Users/arior/clase1/ec1-Lion2407/session11a/Tablero.h
+
