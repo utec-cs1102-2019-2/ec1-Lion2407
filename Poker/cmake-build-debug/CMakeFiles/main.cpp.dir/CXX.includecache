@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/arior/clase1/ec1-Lion2407/Poker/Baraja.cpp
+Baraja.h
+C:/Users/arior/clase1/ec1-Lion2407/Poker/Baraja.h
+
+C:/Users/arior/clase1/ec1-Lion2407/Poker/Baraja.h
+
+C:/Users/arior/clase1/ec1-Lion2407/Poker/Carta.cpp
+Carta.h
+C:/Users/arior/clase1/ec1-Lion2407/Poker/Carta.h
+
+C:/Users/arior/clase1/ec1-Lion2407/Poker/Carta.h
+
+C:/Users/arior/clase1/ec1-Lion2407/Poker/Palo.cpp
+Palo.h
+C:/Users/arior/clase1/ec1-Lion2407/Poker/Palo.h
+
+C:/Users/arior/clase1/ec1-Lion2407/Poker/Palo.h
+
