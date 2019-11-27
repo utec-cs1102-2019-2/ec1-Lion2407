@@ -5,6 +5,7 @@
 #include <vector>
 #include "Baraja.h"
 #include "Carta.h"
+#include "Tipos.h"
 
 using namespace std;
 
@@ -15,6 +16,7 @@ public:
     Juego();
     void start();
     void mostrar();
+    TipoBool esPocker();
 };
 
 #endif //POKER_JUEGO_H

@@ -9,7 +9,7 @@ public:
     TipoNumero numero;
     TipoString palo;
     Carta(TipoNumero numero, TipoString palo);
-    mostrar();
+    void mostrar();
 };
 
 #endif //POKER_CARTA_H
